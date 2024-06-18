@@ -6,5 +6,8 @@ string = "$#@|~aslbagjkels nspielbiack ipnzqnmyxrclwqpiofpgwirmvoiupq riepwqdjoi
 
 print(sting[-11:4:-7])
 
+<<<<<<< HEAD
 
 test 
+=======
+>>>>>>> 5dded94e21e4f0f0e175fc44c709496c776c5b81
