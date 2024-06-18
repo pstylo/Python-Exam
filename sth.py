@@ -6,7 +6,3 @@ sting = "$#@|~aslbagjkels nspielbiack ipnzqnmyxrclwqpiofpgwirmvoiupq riepwqdjoi 
 
 print(sting[-11:4:-7])
 
-
-
-test
-test
