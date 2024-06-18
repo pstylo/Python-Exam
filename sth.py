@@ -4,7 +4,7 @@ $#@|~aslbagjkels nspielbiack ipnzqnmyxrclwqpiofpgwirmvoiupq riepwqdjoi pioack o 
 
 string = "$#@|~aslbagjkels nspielbiack ipnzqnmyxrclwqpiofpgwirmvoiupq riepwqdjoi pioack o ocpalsig====%%%**>"
 
-print(string[-11:4:-7])
+print(sting[-11:4:-7])
 
-print("Hello World") 
 
+test 
