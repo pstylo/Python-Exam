@@ -12,8 +12,8 @@ Write a Python program to construct the following pattern, using a nested for lo
 * """
 
 # increasing part
-for i in range(1,6):
-    print(" * " * i)
+for i2 in range(1,6):
+    print(" * " * i2)
 
 #decreasing part
 for i in range(4,0,-1):
