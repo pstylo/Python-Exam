@@ -6,6 +6,6 @@ car_trips_new = [trip / 0.621371 for trip in car_trips]
 print(1, car_trips_new)  
 
 # Task 1b
-formatted_car_trips_new = [round(trip, 1) for trip in car_trips_new]  # ********* your solution ************
+formatted_car_trips_new = [round(trip, 1) for trip in car_trips_new]
 
 print(2, formatted_car_trips_new)
